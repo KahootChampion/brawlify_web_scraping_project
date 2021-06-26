@@ -1,0 +1,204 @@
+Per Brawler breakdown:
+
+('8-Bit', 'Bounty'): 1
+
+('8-Bit', 'Brawl Ball'): 1
+
+('8-Bit', 'Gem Grab'): 1
+
+('8-Bit', 'Hot Zone'): 1
+
+('Amber', 'Brawl Ball'): 1
+
+('Amber', 'Gem Grab'): 1
+
+('Amber', 'Hot Zone'): 1
+
+('Amber', 'Siege'): 1
+
+('Barley', 'Siege'): 1
+
+('Bea', 'Heist'): 1
+
+('Bea', 'Hot Zone'): 1
+
+('Belle', 'Bounty'): 3
+
+('Belle', 'Brawl Ball'): 2
+
+('Belle', 'Gem Grab'): 3
+
+('Belle', 'Heist'): 2
+
+('Belle', 'Hot Zone'): 1
+
+('Belle', 'Siege'): 1
+
+('Bibi', 'Heist'): 1
+
+('Bibi', 'Hot Zone'): 1
+
+('Bo', 'Siege'): 1
+
+('Brock', 'Bounty'): 1
+
+('Bull', 'Heist'): 1
+
+('Byron', 'Bounty'): 1
+
+('Carl', 'Siege'): 2
+
+('Colette', 'Heist'): 1
+
+('Colette', 'Hot Zone'): 1
+
+('Colonel Ruffs', 'Bounty'): 3
+
+('Colonel Ruffs', 'Gem Grab'): 1
+
+('Colonel Ruffs', 'Siege'): 2
+
+('Crow', 'Brawl Ball'): 1
+
+('Crow', 'Gem Grab'): 2
+
+('Crow', 'Siege'): 1
+
+('Darryl', 'Bounty'): 2
+
+('Darryl', 'Gem Grab'): 3
+
+('Darryl', 'Heist'): 1
+
+('Darryl', 'Hot Zone'): 1
+
+('Dynamike', 'Siege'): 1
+
+('Edgar', 'Heist'): 2
+
+('El Primo', 'Gem Grab'): 1
+
+('El Primo', 'Heist'): 1
+
+('El Primo', 'Hot Zone'): 1
+
+('El Primo', 'Siege'): 1
+
+('Emz', 'Brawl Ball'): 1
+
+('Emz', 'Heist'): 1
+
+('Emz', 'Hot Zone'): 1
+
+('Frank', 'Brawl Ball'): 2
+
+('Frank', 'Hot Zone'): 1
+
+('Frank', 'Siege'): 2
+
+('Gale', 'Brawl Ball'): 1
+
+('Gale', 'Hot Zone'): 2
+
+('Gene', 'Bounty'): 1
+
+('Jacky', 'Bounty'): 1
+
+('Jacky', 'Brawl Ball'): 1
+
+('Jacky', 'Hot Zone'): 1
+
+('Jessie', 'Brawl Ball'): 1
+
+('Jessie', 'Gem Grab'): 2
+
+('Jessie', 'Heist'): 1
+
+('Lou', 'Bounty'): 1
+
+('Lou', 'Brawl Ball'): 1
+
+('Lou', 'Gem Grab'): 1
+
+('Lou', 'Hot Zone'): 2
+
+('Lou', 'Siege'): 2
+
+('Mr. P', 'Bounty'): 3
+
+('Nani', 'Bounty'): 1
+
+('Nita', 'Brawl Ball'): 1
+
+('Nita', 'Gem Grab'): 3
+
+('Nita', 'Heist'): 2
+
+('Nita', 'Hot Zone'): 1
+
+('Pam', 'Brawl Ball'): 1
+
+('Pam', 'Gem Grab'): 1
+
+('Pam', 'Heist'): 1
+
+('Penny', 'Bounty'): 2
+
+('Penny', 'Gem Grab'): 3
+
+('Poco', 'Bounty'): 2
+
+('Poco', 'Brawl Ball'): 1
+
+('Poco', 'Hot Zone'): 1
+
+('Rosa', 'Bounty'): 1
+
+('Rosa', 'Brawl Ball'): 1
+
+('Rosa', 'Gem Grab'): 1
+
+('Rosa', 'Heist'): 1
+
+('Rosa', 'Hot Zone'): 1
+
+('Sandy', 'Brawl Ball'): 1
+
+('Sandy', 'Gem Grab'): 3
+
+('Sandy', 'Hot Zone'): 1
+
+('Sandy', 'Siege'): 1
+
+('Sprout', 'Bounty'): 2
+
+('Squeak', 'Bounty'): 3
+
+('Squeak', 'Brawl Ball'): 2
+
+('Squeak', 'Gem Grab'): 1
+
+('Squeak', 'Heist'): 2
+
+('Squeak', 'Hot Zone'): 1
+
+('Squeak', 'Siege'): 2
+
+('Stu', 'Bounty'): 1
+
+('Stu', 'Gem Grab'): 1
+
+('Stu', 'Heist'): 1
+
+('Stu', 'Siege'): 1
+
+('Surge', 'Siege'): 1
+
+('Tara', 'Brawl Ball'): 1
+
+('Tara', 'Gem Grab'): 2
+
+('Tara', 'Heist'): 1
+
+('Tick', 'Bounty'): 1
+
