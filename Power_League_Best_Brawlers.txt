@@ -1,80 +1,76 @@
 The number of times each brawler was used for any map in power league:
 
-Belle: 12
+Belle: 11
 
-Squeak: 11
+Squeak: 10
 
-Nita: 7
+Nita: 8
 
-Lou: 7
-
-Darryl: 7
-
-Sandy: 6
+Penny: 6
 
 Colonel Ruffs: 6
 
+Stu: 6
+
+Rosa: 6
+
+Darryl: 6
+
 Frank: 5
 
-Rosa: 5
+Lou: 5
 
-Penny: 5
+Crow: 5
 
-El Primo: 4
+Amber: 5
+
+Poco: 5
+
+Sandy: 5
+
+Jacky: 4
 
 Tara: 4
 
-Stu: 4
-
-Poco: 4
-
-Jessie: 4
-
-Amber: 4
-
-8-Bit: 4
-
-Crow: 4
-
-Pam: 3
-
-Gale: 3
-
-Jacky: 3
-
 Mr. P: 3
 
-Emz: 3
+Jessie: 3
 
-Carl: 2
+Sprout: 3
 
-Bea: 2
+8-Bit: 3
+
+Gene: 3
+
+Carl: 3
+
+El Primo: 3
 
 Bibi: 2
 
-Sprout: 2
+Brock: 2
 
-Edgar: 2
+Bull: 2
+
+Emz: 2
+
+Gale: 2
+
+Pam: 2
 
 Colette: 2
 
-Nani: 1
+Nani: 2
 
-Byron: 1
+Rico: 1
 
-Bull: 1
+Shelly: 1
 
-Brock: 1
+Edgar: 1
 
-Bo: 1
-
-Gene: 1
-
-Dynamike: 1
-
-Surge: 1
+Bea: 1
 
 Barley: 1
 
-Tick: 1
+Byron: 1
 

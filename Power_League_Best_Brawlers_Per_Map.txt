@@ -6,21 +6,17 @@ Per Brawler breakdown:
 
 ('8-Bit', 'Gem Grab'): 1
 
-('8-Bit', 'Hot Zone'): 1
-
 ('Amber', 'Brawl Ball'): 1
 
 ('Amber', 'Gem Grab'): 1
 
-('Amber', 'Hot Zone'): 1
+('Amber', 'Heist'): 2
 
 ('Amber', 'Siege'): 1
 
 ('Barley', 'Siege'): 1
 
-('Bea', 'Heist'): 1
-
-('Bea', 'Hot Zone'): 1
+('Bea', 'Brawl Ball'): 1
 
 ('Belle', 'Bounty'): 3
 
@@ -28,7 +24,7 @@ Per Brawler breakdown:
 
 ('Belle', 'Gem Grab'): 3
 
-('Belle', 'Heist'): 2
+('Belle', 'Heist'): 1
 
 ('Belle', 'Hot Zone'): 1
 
@@ -36,35 +32,37 @@ Per Brawler breakdown:
 
 ('Bibi', 'Heist'): 1
 
-('Bibi', 'Hot Zone'): 1
+('Bibi', 'Siege'): 1
 
-('Bo', 'Siege'): 1
-
-('Brock', 'Bounty'): 1
+('Brock', 'Bounty'): 2
 
 ('Bull', 'Heist'): 1
 
+('Bull', 'Hot Zone'): 1
+
 ('Byron', 'Bounty'): 1
+
+('Carl', 'Heist'): 1
 
 ('Carl', 'Siege'): 2
 
-('Colette', 'Heist'): 1
-
-('Colette', 'Hot Zone'): 1
+('Colette', 'Heist'): 2
 
 ('Colonel Ruffs', 'Bounty'): 3
 
 ('Colonel Ruffs', 'Gem Grab'): 1
 
-('Colonel Ruffs', 'Siege'): 2
+('Colonel Ruffs', 'Heist'): 1
+
+('Colonel Ruffs', 'Siege'): 1
 
 ('Crow', 'Brawl Ball'): 1
 
 ('Crow', 'Gem Grab'): 2
 
-('Crow', 'Siege'): 1
+('Crow', 'Hot Zone'): 1
 
-('Darryl', 'Bounty'): 2
+('Crow', 'Siege'): 1
 
 ('Darryl', 'Gem Grab'): 3
 
@@ -72,13 +70,11 @@ Per Brawler breakdown:
 
 ('Darryl', 'Hot Zone'): 1
 
-('Dynamike', 'Siege'): 1
+('Darryl', 'Siege'): 1
 
-('Edgar', 'Heist'): 2
+('Edgar', 'Heist'): 1
 
 ('El Primo', 'Gem Grab'): 1
-
-('El Primo', 'Heist'): 1
 
 ('El Primo', 'Hot Zone'): 1
 
@@ -86,21 +82,21 @@ Per Brawler breakdown:
 
 ('Emz', 'Brawl Ball'): 1
 
-('Emz', 'Heist'): 1
-
 ('Emz', 'Hot Zone'): 1
 
-('Frank', 'Brawl Ball'): 2
+('Frank', 'Brawl Ball'): 1
 
-('Frank', 'Hot Zone'): 1
+('Frank', 'Hot Zone'): 2
 
 ('Frank', 'Siege'): 2
 
 ('Gale', 'Brawl Ball'): 1
 
-('Gale', 'Hot Zone'): 2
+('Gale', 'Hot Zone'): 1
 
-('Gene', 'Bounty'): 1
+('Gene', 'Bounty'): 2
+
+('Gene', 'Siege'): 1
 
 ('Jacky', 'Bounty'): 1
 
@@ -108,25 +104,23 @@ Per Brawler breakdown:
 
 ('Jacky', 'Hot Zone'): 1
 
+('Jacky', 'Siege'): 1
+
 ('Jessie', 'Brawl Ball'): 1
 
 ('Jessie', 'Gem Grab'): 2
-
-('Jessie', 'Heist'): 1
-
-('Lou', 'Bounty'): 1
 
 ('Lou', 'Brawl Ball'): 1
 
 ('Lou', 'Gem Grab'): 1
 
-('Lou', 'Hot Zone'): 2
+('Lou', 'Hot Zone'): 1
 
 ('Lou', 'Siege'): 2
 
 ('Mr. P', 'Bounty'): 3
 
-('Nani', 'Bounty'): 1
+('Nani', 'Bounty'): 2
 
 ('Nita', 'Brawl Ball'): 1
 
@@ -134,23 +128,25 @@ Per Brawler breakdown:
 
 ('Nita', 'Heist'): 2
 
-('Nita', 'Hot Zone'): 1
+('Nita', 'Hot Zone'): 2
 
 ('Pam', 'Brawl Ball'): 1
 
 ('Pam', 'Gem Grab'): 1
 
-('Pam', 'Heist'): 1
-
 ('Penny', 'Bounty'): 2
 
 ('Penny', 'Gem Grab'): 3
 
-('Poco', 'Bounty'): 2
+('Penny', 'Heist'): 1
+
+('Poco', 'Bounty'): 3
 
 ('Poco', 'Brawl Ball'): 1
 
 ('Poco', 'Hot Zone'): 1
+
+('Rico', 'Bounty'): 1
 
 ('Rosa', 'Bounty'): 1
 
@@ -160,7 +156,7 @@ Per Brawler breakdown:
 
 ('Rosa', 'Heist'): 1
 
-('Rosa', 'Hot Zone'): 1
+('Rosa', 'Hot Zone'): 2
 
 ('Sandy', 'Brawl Ball'): 1
 
@@ -168,9 +164,11 @@ Per Brawler breakdown:
 
 ('Sandy', 'Hot Zone'): 1
 
-('Sandy', 'Siege'): 1
+('Shelly', 'Hot Zone'): 1
 
 ('Sprout', 'Bounty'): 2
+
+('Sprout', 'Siege'): 1
 
 ('Squeak', 'Bounty'): 3
 
@@ -180,25 +178,19 @@ Per Brawler breakdown:
 
 ('Squeak', 'Heist'): 2
 
-('Squeak', 'Hot Zone'): 1
-
 ('Squeak', 'Siege'): 2
-
-('Stu', 'Bounty'): 1
 
 ('Stu', 'Gem Grab'): 1
 
-('Stu', 'Heist'): 1
+('Stu', 'Heist'): 2
+
+('Stu', 'Hot Zone'): 2
 
 ('Stu', 'Siege'): 1
-
-('Surge', 'Siege'): 1
 
 ('Tara', 'Brawl Ball'): 1
 
 ('Tara', 'Gem Grab'): 2
 
 ('Tara', 'Heist'): 1
-
-('Tick', 'Bounty'): 1
 
