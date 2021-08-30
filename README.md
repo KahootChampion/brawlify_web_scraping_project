@@ -1,1 +1,7 @@
-# Brawlify_Web_Scraping_Project
+# Brawlify Web Scraping Project
+
+Brawl Stars is a popular mobile game which provides the player with in game currency in the form of coins as well as points one can spend to upgrade their characters (known as brawlers). One can get more coins and points to spend on their brawlers by opening chests. Naturally, coins are a limited resource and I naturally find myself wondering how I should spend my coins in the game. Brawl Stars includes a mode known as "Power League" in which players are ranked higher the more wins they accumulate. Brawlify is a website which compiles statistics on which brawlers are the most effective in certain modes of Brawl Stars. Brawlify includes statistics on which brawlers are the most effective in Power League. The problem is that the statistics provided by Brawlify simply break down the best brawlers for certain "Maps" and "Modes" in the game. I wanted to know which brawler was used most often regardless of map in mode with the most success. 
+
+## How it Works
+
+First, one should run "brawlify_scraper.py" which navigates to this url: https://brawlify.com/league/ and writes down all the brawlers listed in an Excel file called "Power_League_Stats.xlsx". The reason that the information is converted into the form of an Excel spreadsheet is two-fold, one, by writing down the information we cause less load on the brawlify web servers, and two,  we can utilize a data science library known as pandas on spreadsheets. Once the brawlify scraper is done executing, it is natural to then run "interpret_brawlify_stats.py" in order to create two new .txt files which actually compile the relevant statistics we are interested in.
